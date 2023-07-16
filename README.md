@@ -8,4 +8,4 @@ HTML5 CSS3 and JAVASCRİPT
 
 ## Preview
 
-https://github.com/Busrac1/DecorationWebsite/assets/125571297/2007b9d4-2215-4efb-90c7-ddf5e92b37aa
+https://github.com/Busrac1/DecorationWebsite/assets/125571297/be3f878e-3967-4bb9-a6bb-82c9063f61cd
